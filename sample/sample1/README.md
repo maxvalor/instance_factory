@@ -1,0 +1,1 @@
+This is the basic usage sample for instance factory.

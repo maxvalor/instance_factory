@@ -1,0 +1,2 @@
+github.com/maxvalor/instancefactory/sample/sample3/printera.PrinterA : github.com/maxvalor/instancefactory/sample/sample3/printera/impl.PrinterAImpl : _
+github.com/maxvalor/instancefactory/sample/sample3/printerb.PrinterB : github.com/maxvalor/instancefactory/sample/sample3/printerb/impl.PrinterBImpl : _
